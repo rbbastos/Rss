@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //test
     //for startActivityForResult()
     final int STANDARD_REQUEST_CODE = 2;
+    final int S = 23;
     private Button btnProcessRss;
 
     public void processRss(View v){
